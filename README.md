@@ -1,5 +1,6 @@
-# whatsyourcalling
-Code for the demo site built. Team Bruh-grammers, IIT-M Ai challenge. Theme - Education.
+# What's your calling ?
+
+Code for the demo site. Team Bruh-grammers, IIT-M Ai challenge. Theme - Education.
 
 Just don't look at the code already.
 
