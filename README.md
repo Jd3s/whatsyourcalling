@@ -1,16 +1,16 @@
 # What's your calling ?
 
-Code for the demo site. Team Bruh-grammers, IIT-M Ai challenge. Theme - Education.
+Instructions for the demo site. Team Bruh-grammers, IIT-M Ai challenge. Theme - Education.
 
-Just don't look at the code already.
+ Just don't look at the code, already.
 
-Read the proposal.pdf file.
+> Read the proposal.pdf file.
 
 The tech stack and algortihm have been tinkered a bit.
 
-Read the writeup.pdf file.
+> Read the writeup.pdf file.
 
-Take a deep breath.
+> > Take a deep breath.
 
 We'll setup the environment for the site to run.
 
@@ -40,9 +40,8 @@ https://dev.mysql.com/doc/refman/8.0/en/installing.html
  
  *PLEASE TAKE EXTRA CARE IN DOING THIS STEP*
  
- Create a new table under this schema. 
- Name it 'new_table'
- Add these coloumns :
+
+ Run this query.
  
 
 CREATE TABLE `db_connect`.`new_table` (
@@ -60,19 +59,20 @@ CREATE TABLE `db_connect`.`new_table` (
 `seen` INT(10)NULL,
  PRIMARY KEY (`idnew_table`));
 
+After that, run this query.
 
- Create another table under this schema.
- Name it 'user_table'
- Add these coloumns :
+CREATE TABLE `db_connect`.`user_table` (
+  `iduser_table` INT NOT NULL,
+  `branch` VARCHAR(45) NULL,
+  `user_1` DECIMAL(20,10) NULL,
+  PRIMARY KEY (`iduser_table`));
+
  
-iduser_table	int(11) PK
-branch	varchar(45)
-user_1	decimal(20,10)
- 
+
  *NAME THE COLOUMNS AND THEIR DATATYPES CORRECTLY. CHANGING THIS A BIT, MAY MESS UP THE CODE* 
  
  
- 8. Import results.csv file in new_table.
+ 8. Import results.csv file into new_table. Import branch.csv in user_table.
 
  9. Open index.js file. The code inside looks like spaghetti but does wonders.
  
