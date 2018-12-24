@@ -78,11 +78,13 @@ CREATE TABLE `db_connect`.`user_table` (
  
  10. Fill in your DB connection information like username, password etc.,
  
- It's time for some action.
+Time for some action.
  
  Open up terminal / command prompt.
  
 > node index.js
+
+You should see th word "Connected !" in your terminal window.
 
 Visit http://localhost:3000/
 
