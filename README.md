@@ -103,10 +103,16 @@ You should see th word "Connected !" in your terminal window.
 Visit http://localhost:3000/
 
 
+
+Screenshots from the site :
+
+
  ![picture alt](https://github.com/jayasuriyars/whatsyourcalling/blob/master/desc_images/article.jpg)
  
  
  ![picture alt](https://github.com/jayasuriyars/whatsyourcalling/blob/master/desc_images/review.jpg)
+ 
+ > We'll not reveal too much here ! See for yourself.
  
  
 We havent added user login feautre yet. The default user is user_1. If you want to reset his preferences, click on 'Reset'button on the feed.
