@@ -80,6 +80,13 @@ After that, run this query.
  
  ### 10. Fill in your DB connection information like username, password etc., ###
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Time for some action.
  
  Open up terminal / command prompt.
@@ -89,8 +96,6 @@ Time for some action.
 You should see th word "Connected !" in your terminal window.
 
 Visit http://localhost:3000/
-
-WE HAVEN'T ADDED USER LOGIN FEAUTRE, YET. THE DEFAULT USER IS user_1. IF YOU WANT TO RESET HIS PREFERENCES, CLICK ON 'RESET' TAB ON FEED.
 
 We havent added user login feautre yet. The default user is user_1. If you want to reset his preferences, click on 'Reset'button on the feed.
 
