@@ -10,9 +10,11 @@ The tech stack and algortihm have been tinkered a bit.
 
 > Read the writeup.pdf file.
 
-> >Markup :  ~~ Take a deep breath.~~
-
 We'll setup the environment for the site to run.
+
+> > Take a deep breath
+ Markup : - [ ] An uncompleted task
+
 
 1.Install node Js.
 
