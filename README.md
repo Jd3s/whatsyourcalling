@@ -2,6 +2,9 @@
 
 Instructions for the demo site. Team Bruh-grammers, IIT-M Ai challenge. Theme - Education.
 
+ ![picture alt](https://github.com/jayasuriyars/whatsyourcalling/blob/master/desc_images/site.jpg)
+
+
  Just don't look at the code, already.
 
 > Read the proposal.pdf file.
@@ -79,7 +82,7 @@ After that, run this query.
  
  ### 10. Fill in your DB connection information like username, password etc., ###
  
-Markup : ![picture alt](https://github.com/jayasuriyars/whatsyourcalling/blob/master/desc_images/db.jpg)
+ ![picture alt](https://github.com/jayasuriyars/whatsyourcalling/blob/master/desc_images/db.jpg)
  
  
  
@@ -94,8 +97,18 @@ Time for some action.
 
 You should see th word "Connected !" in your terminal window.
 
+ ![picture alt](https://github.com/jayasuriyars/whatsyourcalling/blob/master/desc_images/terminal.jpg)
+
+
 Visit http://localhost:3000/
 
+
+ ![picture alt](https://github.com/jayasuriyars/whatsyourcalling/blob/master/desc_images/article.jpg)
+ 
+ 
+ ![picture alt](https://github.com/jayasuriyars/whatsyourcalling/blob/master/desc_images/review.jpg)
+ 
+ 
 We havent added user login feautre yet. The default user is user_1. If you want to reset his preferences, click on 'Reset'button on the feed.
 
  
