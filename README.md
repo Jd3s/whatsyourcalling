@@ -2,7 +2,7 @@
 
 Instructions for the demo site. Team Bruh-grammers, IIT-M Ai challenge. Theme - Education.
 
- ![picture alt](https://github.com/jayasuriyars/whatsyourcalling/blob/master/desc_images/site.jpg)
+ ![picture alt](https://github.com/jayasuriyars/whatsyourcalling/blob/master/desc_images/site.jpeg)
 
 
  Just don't look at the code, already.
