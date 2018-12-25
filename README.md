@@ -37,6 +37,8 @@ https://dev.mysql.com/doc/refman/8.0/en/installing.html
  
 ### 5. Establish a connection between the workbench and MySql. ###
 
+![picture alt](https://github.com/jayasuriyars/whatsyourcalling/blob/master/desc_images/workbench.png)
+
 ### 6. Install node js dependencies. ###
 > npm install express body-parser ejs recommender http-server sentiment mysql nodemon
 
@@ -79,6 +81,10 @@ After that, run this query.
 ### 8. Import results.csv file into new_table. Import branch.csv in user_table. ###
 
 > Want to know how this file came aboard, read Algorithm/model applied in writeup.pdf
+
+Your DB should now look like this :
+
+![picture alt](https://github.com/jayasuriyars/whatsyourcalling/blob/master/desc_images/mysql.png)
 
 ### 9. Open index.js file. The code inside looks like spaghetti but does wonders. ###
  > The code is unformmated. Yet, it does what we intended it to do.
