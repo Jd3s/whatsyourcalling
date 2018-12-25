@@ -92,9 +92,9 @@ Visit http://localhost:3000/
 
 WE HAVEN'T ADDED USER LOGIN FEAUTRE, YET. THE DEFAULT USER IS user_1. IF YOU WANT TO RESET HIS PREFERENCES, CLICK ON 'RESET' TAB ON FEED.
 
+We havent added user login feautre yet. The default user is user_1. If you want to reset his preferences, click on 'Reset'button on the feed.
+
  
- Incase of a doubt, please feel free to reach out at jayasuriyars@gmail.com
- 
- or through the contact number on the front page of the proposal.pdf file.
+ Incase of a doubt, please feel free to reach out at jayasuriyars@gmail.com or through the contact number on the front page of the proposal.pdf file.
  
  
