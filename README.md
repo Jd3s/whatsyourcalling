@@ -10,7 +10,7 @@ The tech stack and algortihm have been tinkered a bit.
 
 > Read the writeup.pdf file.
 
-> > Take a deep breath.
+> >Markup :  ~~ Take a deep breath.~~
 
 We'll setup the environment for the site to run.
 
