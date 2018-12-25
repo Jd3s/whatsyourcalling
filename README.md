@@ -79,7 +79,7 @@ After that, run this query.
  
  ### 10. Fill in your DB connection information like username, password etc., ###
  
-Markup : ![picture alt] https://github.com/jayasuriyars/whatsyourcalling/blob/master/desc_images/db.jpg
+Markup : ![picture alt](https://github.com/jayasuriyars/whatsyourcalling/blob/master/desc_images/db.jpg)
  
  
  
