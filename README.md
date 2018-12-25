@@ -16,29 +16,29 @@ We'll setup the environment for the site to run.
 
 
 
-###1.Install node Js.###
+### 1.Install node Js. ###
 
  https://nodejs.org/en/download/
  
-###2. Install npm###
+### 2. Install npm ###
 
 https://www.npmjs.com/get-npm
  
-###3. Install MySql### 
+### 3. Install MySql ### 
 
 This may take some time. When on Linux or Mac OS, you'll have a bit trouble concerning root access permissions.  
 Google it ASAP. WE REPEAT, GOOGLE IT ! 
 
 https://dev.mysql.com/doc/refman/8.0/en/installing.html
 
-###4. Install MySql Workbench.###
+### 4. Install MySql Workbench.###
 
-5. Establish a connection between the workbench and MySql.
+### 5. Establish a connection between the workbench and MySql.###
 
-6. Install node js dependencies.
+### 6. Install node js dependencies.###
 > npm install express body-parser ejs recommender http-server sentiment mysql nodemon
 
-7. Open MySql workbench, create a new schema, name it db_connect
+### 7. Open MySql workbench, create a new schema, name it db_connect ###
  
  *PLEASE TAKE EXTRA CARE IN DOING THIS STEP*
  
@@ -74,11 +74,11 @@ After that, run this query.
  *NAME THE COLOUMNS AND THEIR DATATYPES CORRECTLY. CHANGING THIS A BIT, MAY MESS UP THE CODE* 
  
  
- 8. Import results.csv file into new_table. Import branch.csv in user_table.
+### 8. Import results.csv file into new_table. Import branch.csv in user_table. ###
 
- 9. Open index.js file. The code inside looks like spaghetti but does wonders.
+### 9. Open index.js file. The code inside looks like spaghetti but does wonders. ###
  
- 10. Fill in your DB connection information like username, password etc.,
+ ### 10. Fill in your DB connection information like username, password etc., ###
  
 Time for some action.
  
