@@ -13,25 +13,25 @@ The tech stack and algortihm have been tinkered a bit.
 We'll setup the environment for the site to run.
 
 > > Take a deep breath
- Markup : - [ ] An uncompleted task
 
 
-1.Install node Js.
+
+###1.Install node Js.###
 
  https://nodejs.org/en/download/
  
-2. Install npm
+###2. Install npm###
 
 https://www.npmjs.com/get-npm
  
-3. Install MySql 
+###3. Install MySql### 
 
 This may take some time. When on Linux or Mac OS, you'll have a bit trouble concerning root access permissions.  
 Google it ASAP. WE REPEAT, GOOGLE IT ! 
 
 https://dev.mysql.com/doc/refman/8.0/en/installing.html
 
-4. Install MySql Workbench.
+###4. Install MySql Workbench.###
 
 5. Establish a connection between the workbench and MySql.
 
