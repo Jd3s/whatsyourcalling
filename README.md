@@ -26,8 +26,7 @@ https://www.npmjs.com/get-npm
  
 ### 3. Install MySql ### 
 
-This may take some time. When on Linux or Mac OS, you'll have a bit trouble concerning root access permissions.  
-Google it ASAP. WE REPEAT, GOOGLE IT ! 
+This may take some time. When on Linux or Mac OS, you'll have a bit trouble concerning root access permissions.   
 
 https://dev.mysql.com/doc/refman/8.0/en/installing.html
 
@@ -80,7 +79,7 @@ After that, run this query.
  
  ### 10. Fill in your DB connection information like username, password etc., ###
  
- 
+Markup : ![picture alt] https://github.com/jayasuriyars/whatsyourcalling/blob/master/desc_images/db.jpg
  
  
  
