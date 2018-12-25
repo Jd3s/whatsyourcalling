@@ -44,20 +44,20 @@ https://dev.mysql.com/doc/refman/8.0/en/installing.html
  Run this query.
  
 
-CREATE TABLE `db_connect`.`new_table` (
- `idnew_table` INT(11) NOT NULL,
- `title` VARCHAR(10000) NULL,
- `text` VARCHAR(40000) NULL,
- `aero` DECIMAL(10,9) NULL,
-`chem` DECIMAL(10,9) NULL,
-`civil` DECIMAL(10,9) NULL,
-`cs` DECIMAL(10,9) NULL,
-`ece` DECIMAL(10,9) NULL,
-`eee` DECIMAL(10,9) NULL,
-`mech` DECIMAL(10,9) NULL,
-`user_1` DECIMAL(20,10)NULL,
-`seen` INT(10)NULL,
- PRIMARY KEY (`idnew_table`));
+   >CREATE TABLE `db_connect`.`new_table` (
+    `idnew_table` INT(11) NOT NULL,
+    `title` VARCHAR(10000) NULL,
+    `text` VARCHAR(40000) NULL,
+    `aero` DECIMAL(10,9) NULL,
+   `chem` DECIMAL(10,9) NULL,
+   `civil` DECIMAL(10,9) NULL,
+   `cs` DECIMAL(10,9) NULL,
+   `ece` DECIMAL(10,9) NULL,
+   `eee` DECIMAL(10,9) NULL,
+   `mech` DECIMAL(10,9) NULL,
+   `user_1` DECIMAL(20,10)NULL,
+   `seen` INT(10)NULL,
+    PRIMARY KEY (`idnew_table`));
 
 After that, run this query.
 
