@@ -78,8 +78,10 @@ After that, run this query.
  
 ### 8. Import results.csv file into new_table. Import branch.csv in user_table. ###
 
+> Want to know how this file came aboard, read Algorithm/model applied in writeup.pdf
+
 ### 9. Open index.js file. The code inside looks like spaghetti but does wonders. ###
- 
+ > The code is unformmated. Yet, it does what we intended it to do.
  ### 10. Fill in your DB connection information like username, password etc., ###
  
  ![picture alt](https://github.com/jayasuriyars/whatsyourcalling/blob/master/desc_images/db.jpg)
