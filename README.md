@@ -9,7 +9,7 @@ Instructions for the demo site. Team Bruh-grammers, IIT-M Ai challenge. Theme - 
 
 > Read the proposal.pdf file.
 
-The tech stack and algortihm have been tinkered a bit.
+The tech stack and algorithm have been tinkered a bit.
 
 > Read the writeup.pdf file.
 
