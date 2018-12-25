@@ -905,7 +905,7 @@ app.listen(3000);
                                                                                                                                                                  var distances=[];
                                                                                                                                                                  for(var i=0;i<results1.length;i++)
                                                                                                                                                                  {
-                                                                                                                                                                   distances[i]=  (Math.sqrt(top_3_val[0])*overall0[i])+(Math.sqrt(top_3_val[1])*overall1[i])+(Math.sqrt(top_3_val[2])*overall2[i]);
+                                                                                                                                                                   distances[i]=  ((top_3_val[0]-top_3_val[2])*overall0[i])+((top_3_val[1]-top_3_val[2])*overall1[i])+(((top_3_val[1]-top_3_val[2])*0.8)*overall2[i]);
                                                                                                                                                                  }
 
    //console.log(distances);
