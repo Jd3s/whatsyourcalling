@@ -31,11 +31,11 @@ Google it ASAP. WE REPEAT, GOOGLE IT !
 
 https://dev.mysql.com/doc/refman/8.0/en/installing.html
 
-### 4. Install MySql Workbench.###
+### 4. Install MySql Workbench. ###
+ 
+### 5. Establish a connection between the workbench and MySql. ###
 
-### 5. Establish a connection between the workbench and MySql.###
-
-### 6. Install node js dependencies.###
+### 6. Install node js dependencies. ###
 > npm install express body-parser ejs recommender http-server sentiment mysql nodemon
 
 ### 7. Open MySql workbench, create a new schema, name it db_connect ###
