@@ -61,11 +61,11 @@ https://dev.mysql.com/doc/refman/8.0/en/installing.html
 
 After that, run this query.
 
-    >CREATE TABLE `db_connect`.`user_table` (
-   `iduser_table` INT NOT NULL,
-   `branch` VARCHAR(45) NULL,
-   `user_1` DECIMAL(20,10) NULL,
-   PRIMARY KEY (`iduser_table`));
+  >   CREATE TABLE `db_connect`.`user_table` (
+    `iduser_table` INT NOT NULL,
+    `branch` VARCHAR(45) NULL,
+    `user_1` DECIMAL(20,10) NULL,
+    PRIMARY KEY (`iduser_table`));
 
  
 
